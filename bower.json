@@ -1,0 +1,25 @@
+{
+  "name": "core-alert",
+  "version": "0.0.0",
+  "authors": [
+    "Villasanti Francisco <villasanti.francisco@gmail.com>"
+  ],
+  "description": "a simple alert panel for info, success, warning and danger messages",
+  "keywords": [
+    "alert",
+    "panel"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.5",
+    "core-icon": "Polymer/core-icon#~0.3.5"
+  }
+}
